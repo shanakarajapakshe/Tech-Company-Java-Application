@@ -1,0 +1,4 @@
+dinuja nimansith,2001.7.30,kandawatta road nugegoda,001,0776457323,IT department,Software Engineer
+dileeka supun,2000.9.22,awissawella road rathnapura,002,0773456789,IT department,Software Engineer
+Sineth Gamage,1997.8.25,Batakattara Thumbovila,003,0785694852,Marketing Department,Marketing Manager
+Sineth Gamage,9.07.2002,Nugegoda,004,0768569875,HR,Manager
